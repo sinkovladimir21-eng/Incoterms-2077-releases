@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/sinkovladimir21-eng/Incoterms-2077-releases/releases/latest/download/DocAudit.zip",
-  "notes": "РџРµСЂРІС‹Р№ СЂРµР»РёР·."
+  "version": "1.1.1",
+  "url": "https://github.com/sinkovladimir21-eng/Incoterms-2077-releases/releases/latest/download/GrassAudit.zip",
+  "notes": "GrassAudit 1.1.1: новое название и интерфейс, добавление файлов по одному, новые проверки, исправлен запуск из скачанного архива."
 }
